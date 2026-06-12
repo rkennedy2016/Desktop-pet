@@ -1,7 +1,3 @@
-![Release](https://img.shields.io/github/v/release/rkennedy2016/DesktopPet)
-![License](https://img.shields.io/github/license/rkennedy2016/DesktopPet)
-![Stars](https://img.shields.io/github/stars/rkennedy2016/DesktopPet)
-
 ==============================================================================================
 🐾 DesktopPet
 A floating desktop companion that walks, sits, sleeps, and sparkles — built for rebellion, joy, and cursor-tethered love.
